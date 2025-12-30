@@ -44,7 +44,7 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-08 | <a href='https://projectdevtree.netlify.app/' target='_blank'>Project-RedSocial DevTree</a> |
+| 2025-12-30 | <a href='https://projectdevtree.netlify.app/' target='_blank'>Project-RedSocial DevTree</a> |
 | 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
 | 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
 | 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
