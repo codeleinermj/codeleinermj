@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning TypeScript-React-Nextjs-Phyton + Fast API
+- 🌱 I’m currently learning Nodejs-TypeScript-Express-React-Nextjs
 
 - 🧑‍🎓 I am currently studying at IT schools.
 
