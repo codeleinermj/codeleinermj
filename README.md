@@ -2,14 +2,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Leiner+Mejias...;Welcome+to+my+Github."></a>
 </p>
 
-<h3 align="center">Passionate IT Student | constant learning...</h3>
+<h3 align="center">Passionate IA Development Student  | constant learning...</h3>
 
 ## About Me
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning Nodejs-TypeScript-Express-React-Nextjs
+- 🌱 I’m currently learning Nodejs-TypeScript-Express-React-Nextjs with IA
 
 - 🧑‍🎓 I am currently studying at IT schools.
 
