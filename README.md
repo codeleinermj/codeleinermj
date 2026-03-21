@@ -44,9 +44,9 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2026-03-21 | <a href='https://frontend-delta-wine-78.vercel.app' target='_blank'>Platform Api rest</a> |
 | 2025-12-30 | <a href='https://projectdevtree.netlify.app/' target='_blank'>Project-RedSocial DevTree</a> |
 | 2023-06-07 | <a href='' target='_blank'>Empty for new projects</a> |
-| 2023-06-06 | <a href='' target='_blank'>Empty for new projects</a> |
 | 2023-06-05 | <a href='' target='_blank'>Empty for new projects</a> |
 | 2023-06-04 | <a href='' target='_blank'>Empty for new projects</a> |
 | 2023-06-03 | <a href='' target='_blank'>Empty for new projects</a> |
