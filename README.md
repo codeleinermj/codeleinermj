@@ -46,13 +46,13 @@
 | :-: | :---: |
 | 21-03-2026 | <a href='https://frontend-delta-wine-78.vercel.app' target='_blank'>Platform Api rest</a> |
 | 30-02-2025 | <a href='https://projectdevtree.netlify.app/' target='_blank'>Project-RedSocial DevTree</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
-| 10-02-2020 | <a href='' target='_blank'>Empty for new projects</a> |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
+| -- / -- / -- | `Empty for new projects` |
 <!-- END_SECTION:blog -->
 </td>
