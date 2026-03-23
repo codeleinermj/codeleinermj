@@ -58,10 +58,17 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <hr>
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=codeleinermj&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/codeleinermj)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=codeleinermj&theme=material-palenight)](https://github.com/codeleinermj)
+</div>
+
+------
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
-:mortar_board:  <a href="https://yuzhang.wang" target="_blank">Projects
+:mortar_board:  <a href="https:mypage" target="_blank">Projects
 </a> 
   
 <!-- START_SECTION:blog -->
@@ -72,10 +79,6 @@
 | -- / -- / -- | `Empty for new projects` |
 | -- / -- / -- | `Empty for new projects` |
 | -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
+
 <!-- END_SECTION:blog -->
 </td>
