@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Leiner+Mejias.;Welcome+to+my+Github..."></a>
 </p>
-<h3 align="center">Passionate IA Development FullStack Student  | constant learning...</h3>
+<h3 align="center">Passionate IA Developer FullStack Student  | constant learning...</h3>
 
 ## About Me
 <table align="center">
@@ -15,11 +15,8 @@
 - 💬 Passionate about continuous learning.
 
 - 💬 Self-taught.
-
-- <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"><a href='https://www.codewars.com/dashboard' target='_blank'>Profile</a> |
-
+  
 - 📫 How to reach me **codeleinermj@gmail.com**
-https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey
 </td>
 <td width="50%" align="center">
 
@@ -41,7 +38,6 @@ https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&l
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
 <h3> Frameworks &+</h3>
 <span> 
@@ -54,10 +50,12 @@ https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&l
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="">
-  <img src="">
-  <img src="">
 </span>
+<h3> 💾 Databases</h3>
+<span> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <hr>
 
 <table width="100%" align="center" padding="0" margin="0">
