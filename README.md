@@ -65,20 +65,14 @@
 </div>
 
 ------
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-:mortar_board:  <a href="https:mypage" target="_blank">Projects
-</a> 
-  
-<!-- START_SECTION:blog -->
-| Date | Title |
-| :-: | :---: |
-| 21-03-2026 | <a href='https://frontend-delta-wine-78.vercel.app' target='_blank'>Platform Api rest</a> |
-| 30-02-2025 | <a href='https://projectdevtree.netlify.app/' target='_blank'>Project-RedSocial DevTree</a> |
-| -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
-| -- / -- / -- | `Empty for new projects` |
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-🎓-blue?style=for-the-badge&logo=github" alt="Projects Header">
+</p>
 
-<!-- END_SECTION:blog -->
-</td>
+| 📅 **Date** | 📂📄 **README Repository** | 🚀 **Title Project** |
+| :---: | :---: | :--- |
+| 21-03-2026 | [📂🔍 View Docs](./) | <a href='https://frontend-delta-wine-78.vercel.app' target='_blank'>Plataforma API Rest</a> |
+| 30-02-2025 | [📂🔍 View Docs](./) | <a href='https://projectdevtree.netlify.app/' target='_blank'>RedSocial DevTree</a> |
+| -- / -- / -- | `Empty` | `Upcoming Project...` |
+| -- / -- / -- | `Empty` | `Upcoming Project...` |
+| -- / -- / -- | `Empty` | `Upcoming Project...` |
