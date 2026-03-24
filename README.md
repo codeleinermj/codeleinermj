@@ -56,7 +56,10 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
 <hr>
+<div align="center">
+ 
 [![](https://github-readme-stats.vercel.app/api?username=codeleinermj&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/codeleinermj)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=codeleinermj&theme=material-palenight)](https://github.com/codeleinermj)
 </div>
